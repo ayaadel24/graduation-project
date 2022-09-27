@@ -1,0 +1,44 @@
+@media (min-width: 768px) and (max-width: 1024px
+){
+  .header,
+  .navbar,
+  .section-about,
+  footer,
+  .bottom-footer{
+    width: 100%;
+    position: relative;
+    left: 100px;
+    
+}
+.section-services
+{
+  
+  width: 100%;
+  position: relative;
+  left: 100px;
+}
+.section-download
+{
+  margin-top: 450px;
+  position: relative;
+  left: 100px;
+}
+.section-download .down .photos img
+{
+  width: 300px;
+}
+
+}
+@media (min-width: 1024px) and (max-width: 1990px
+){
+  .section-services
+  {
+  height:700px;
+    
+  }
+  .section-download
+  {
+    margin-top: 50px;
+    
+  }
+}
